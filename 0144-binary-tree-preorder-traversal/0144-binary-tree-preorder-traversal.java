@@ -20,6 +20,10 @@ class Solution {
         dfs(root.left,ans);// answer pass karenge since 2 chiz hai dfs me 
         dfs(root.right,ans);
     }
+    //given function me bas root pass ho rha hai and question ke according hme arraylist
+    // bhi pass karna hai uske liye hm dusra function bana rhe hai and usme 2 chiz hai node
+    // and ArrayList.
+    //so isme solve karke h=given fun me return
     public List<Integer> preorderTraversal(TreeNode root) {
         ArrayList <Integer> ans= new ArrayList<>();
         dfs(root,ans);
