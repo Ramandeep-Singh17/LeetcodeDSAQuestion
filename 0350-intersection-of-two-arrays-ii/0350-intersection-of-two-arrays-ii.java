@@ -38,7 +38,7 @@ class Solution {
             for(int j =0;j<m;j++){
                 if(arr1[i]==arr2[j]){
                     ans.add(arr1[i]);
-                   
+                    arr2[j]=Integer.MIN_VALUE;
                     break;
                 }
             }
