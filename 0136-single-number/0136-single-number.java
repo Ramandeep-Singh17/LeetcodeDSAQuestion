@@ -9,8 +9,8 @@ class Solution {
          continue;
         else if(arr[i-1]!=arr[i]) 
         return arr[i-1];
-         else if(arr[n-1]!=arr[n-2])
-        return arr[n-1];
+        //  else if(arr[n-1]!=arr[n-2])
+        // return arr[n-1];
         
       }  
       return arr[i-1];      
