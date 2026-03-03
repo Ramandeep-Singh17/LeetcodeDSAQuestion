@@ -15,4 +15,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0242-valid-anagram/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0242-valid-anagram/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
