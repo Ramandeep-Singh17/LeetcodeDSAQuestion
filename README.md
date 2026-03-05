@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 ## Greedy
@@ -20,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0242-valid-anagram/) | Easy |
 ## String
@@ -31,4 +33,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0242-valid-anagram/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
