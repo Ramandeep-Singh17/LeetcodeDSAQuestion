@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0205-isomorphic-strings](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0242-valid-anagram/) | Easy |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
