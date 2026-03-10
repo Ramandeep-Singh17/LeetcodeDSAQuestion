@@ -57,4 +57,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0486-predict-the-winner/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0101-symmetric-tree](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0101-symmetric-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0101-symmetric-tree](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0101-symmetric-tree/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0101-symmetric-tree](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0101-symmetric-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0101-symmetric-tree](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0101-symmetric-tree/) | Easy |
 <!---LeetCode Topics End-->
