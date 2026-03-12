@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0231-power-of-two/) | Easy |
 | [0486-predict-the-winner](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0486-predict-the-winner/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0231-power-of-two/) | Easy |
 | [0486-predict-the-winner](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0486-predict-the-winner/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
@@ -78,4 +80,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0136-single-number/) | Easy |
+| [0231-power-of-two](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
