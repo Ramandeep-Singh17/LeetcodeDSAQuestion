@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0290-word-pattern/) | Easy |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0486-predict-the-winner](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0486-predict-the-winner/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -87,4 +89,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
