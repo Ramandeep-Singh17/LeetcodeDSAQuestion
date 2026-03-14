@@ -93,4 +93,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
