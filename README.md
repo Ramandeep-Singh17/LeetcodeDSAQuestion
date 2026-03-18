@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0029-divide-two-integers/) | Medium |
+| [0050-powx-n](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0231-power-of-two/) | Easy |
 | [0486-predict-the-winner](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0486-predict-the-winner/) | Medium |
 ## Dynamic Programming
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0231-power-of-two/) | Easy |
 | [0486-predict-the-winner](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0486-predict-the-winner/) | Medium |
 ## Game Theory
