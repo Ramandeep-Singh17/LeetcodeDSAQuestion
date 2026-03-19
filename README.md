@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0049-group-anagrams](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0049-group-anagrams/) | Medium |
+| [0168-excel-sheet-column-title](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0290-word-pattern/) | Easy |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0007-reverse-integer/) | Medium |
 | [0029-divide-two-integers](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0029-divide-two-integers/) | Medium |
 | [0050-powx-n](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0050-powx-n/) | Medium |
+| [0168-excel-sheet-column-title](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0231-power-of-two](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0231-power-of-two/) | Easy |
 | [0486-predict-the-winner](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0486-predict-the-winner/) | Medium |
 ## Dynamic Programming
