@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0175-combine-two-tables/) | Easy |
+| [1757-recyclable-and-low-fat-products](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
