@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0049-group-anagrams/) | Medium |
+| [0055-jump-game](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0055-jump-game/) | Medium |
 | [0078-subsets](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0078-subsets/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0136-single-number/) | Easy |
@@ -17,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0055-jump-game/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -65,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0055-jump-game](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0055-jump-game/) | Medium |
 | [0486-predict-the-winner](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0486-predict-the-winner/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
