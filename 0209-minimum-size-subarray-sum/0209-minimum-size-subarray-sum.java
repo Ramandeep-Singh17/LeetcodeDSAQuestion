@@ -4,9 +4,9 @@ class Solution {
         int high=0;
         int res= Integer.MAX_VALUE;
         int sum =0;
-        int n = arr.length-1;
+        int n = arr.length;
         int size=0;
-        while(high<=n){
+        while(high<n){
             sum=sum+arr[high];
             while(sum>=target){
                  size = high - low + 1;
@@ -19,8 +19,8 @@ class Solution {
             
         }
       if (res == Integer.MAX_VALUE) {
-    return 0;
-} else {
+      return 0;
+}   else {
     return res;
 }
     }
