@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/0209-minimum-size-subarray-sum) |
 | [0414-third-maximum-number](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/0414-third-maximum-number) |
 | [0486-predict-the-winner](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0486-predict-the-winner/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/0209-minimum-size-subarray-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -141,9 +143,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/0209-minimum-size-subarray-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
