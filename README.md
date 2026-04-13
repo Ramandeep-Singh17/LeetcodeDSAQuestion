@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0049-group-anagrams](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0049-group-anagrams/) | Medium |
+| [0125-valid-palindrome](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0242-valid-anagram/) | Easy |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Database
 |  |
