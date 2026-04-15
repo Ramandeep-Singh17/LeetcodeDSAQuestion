@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0290-word-pattern/) | Easy |
+| [0412-fizz-buzz](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/0412-fizz-buzz) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Sorting
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0050-powx-n/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0231-power-of-two](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0231-power-of-two/) | Easy |
+| [0412-fizz-buzz](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0486-predict-the-winner/) | Medium |
 ## Dynamic Programming
 |  |
@@ -155,4 +157,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/0209-minimum-size-subarray-sum) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
