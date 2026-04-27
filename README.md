@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0414-third-maximum-number](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/0414-third-maximum-number) |
 | [0486-predict-the-winner](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0486-predict-the-winner/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/0904-fruit-into-baskets) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1480-running-sum-of-1d-array](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 ## Hash Table
@@ -77,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -112,10 +115,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0101-symmetric-tree/) | Easy |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0101-symmetric-tree/) | Easy |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
