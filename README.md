@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0290-word-pattern](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0290-word-pattern/) | Easy |
 | [0412-fizz-buzz](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/0424-longest-repeating-character-replacement) |
+| [0796-rotate-string](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/0796-rotate-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Sorting
@@ -180,4 +181,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
