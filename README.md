@@ -160,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0595-big-countries](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0595-big-countries/) | Easy |
 | [1683-invalid-tweets](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Backtracking
 |  |
 | ------- |
