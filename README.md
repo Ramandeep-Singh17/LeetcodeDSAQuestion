@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1480-running-sum-of-1d-array](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [2553-separate-the-digits-in-an-array](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/2553-separate-the-digits-in-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -179,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/0412-fizz-buzz) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/2553-separate-the-digits-in-an-array) |
 ## Trie
 |  |
 | ------- |
