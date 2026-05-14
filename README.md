@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/2553-separate-the-digits-in-an-array) |
+| [2784-check-if-array-is-good](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/2784-check-if-array-is-good) |
 ## Greedy
 |  |
 | ------- |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0290-word-pattern](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0290-word-pattern/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/0904-fruit-into-baskets) |
+| [2784-check-if-array-is-good](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## String
 |  |
@@ -76,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0242-valid-anagram/) | Easy |
 | [0414-third-maximum-number](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/0414-third-maximum-number) |
+| [2784-check-if-array-is-good](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Union-Find
 |  |
