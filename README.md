@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/0018-4sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0049-group-anagrams/) | Medium |
 | [0055-jump-game](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0055-jump-game/) | Medium |
 | [0078-subsets](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0078-subsets/) | Medium |
@@ -180,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/0209-minimum-size-subarray-sum) |
 ## Simulation
