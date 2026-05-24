@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0136-single-number/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/0209-minimum-size-subarray-sum) |
 | [0414-third-maximum-number](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/0414-third-maximum-number) |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0007-reverse-integer/) | Medium |
 | [0029-divide-two-integers](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0029-divide-two-integers/) | Medium |
 | [0050-powx-n](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0050-powx-n/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0231-power-of-two](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0231-power-of-two/) | Easy |
 | [0412-fizz-buzz](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/0412-fizz-buzz) |
@@ -201,4 +203,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/0061-rotate-list) |
+## Stack
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
