@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0049-group-anagrams/) | Medium |
 | [0055-jump-game](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0055-jump-game/) | Medium |
+| [0075-sort-colors](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0078-subsets/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0049-group-anagrams/) | Medium |
+| [0075-sort-colors](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0242-valid-anagram/) | Easy |
 | [0414-third-maximum-number](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/0414-third-maximum-number) |
@@ -161,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/0018-4sum) |
 | [0061-rotate-list](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
