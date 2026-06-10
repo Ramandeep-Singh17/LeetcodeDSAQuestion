@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/0209-minimum-size-subarray-sum) |
+| [0283-move-zeroes](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/0414-third-maximum-number) |
 | [0486-predict-the-winner](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0486-predict-the-winner/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/0904-fruit-into-baskets) |
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0283-move-zeroes](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/0283-move-zeroes) |
 ## Database
 |  |
 | ------- |
