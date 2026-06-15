@@ -200,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/0412-fizz-buzz) |
+| [1603-design-parking-system](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/1603-design-parking-system) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/2553-separate-the-digits-in-an-array) |
 ## Trie
 |  |
@@ -217,4 +218,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/0150-evaluate-reverse-polish-notation) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/1603-design-parking-system) |
+## Counting
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/Ramandeep-Singh17/LeetcodeDSAQuestion/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
